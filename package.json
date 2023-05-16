@@ -1,7 +1,7 @@
 {
   "name": "rs-checkout-api",
   "version": "0.0.1",
-  "description": "",
+  "description": "Integration with SQL Database",
   "author": "Kiryl Shaliapin",
   "private": true,
   "license": "UNLICENSED",
